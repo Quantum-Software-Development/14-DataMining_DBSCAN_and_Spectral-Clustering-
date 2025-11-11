@@ -11,12 +11,14 @@
 
 # 14- [Data Mining]()  / [DBSCAN]()
 
+
+<!--
 ### <p align="center"> _A practical guide to dimensionality reduction and anomaly detection. An easy guide for everyone !_
+-->
 
 <br><br>
 
-This repository provides a hands-on guide to two powerful data mining techniques — **Principal Component Analysis (PCA)** and **Isolation Forest**.  
-It explains how to simplify high-dimensional data and detect outliers with visual and practical examples.  
+
 
 <br><br>
 
