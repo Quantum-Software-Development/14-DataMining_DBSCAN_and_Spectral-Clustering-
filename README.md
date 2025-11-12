@@ -9,7 +9,7 @@
 
 <br><br>
 
-# 14- [Data Mining]()  / [DBSCAN]()
+# 14- [Data Mining]()  / [DBSCAN]() and [Spectral Clustering]() 
 
 
 <!--
