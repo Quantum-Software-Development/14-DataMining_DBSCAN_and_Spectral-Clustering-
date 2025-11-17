@@ -95,13 +95,13 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 <br><br>
 
-
-
 <!--END-->
+
+<br><br>
 
 Welcome to your repository guide for [DataMining DBSCAN_and_Spectral Clustering](https://github.com/Quantum-Software-Development/14-DataMining_DBSCAN_and_Spectral-Clustering-). This Repo is written so anyone—even kids, can understand the two powerful clustering algorithms: [***DBSCAN***]() and [***Spectral Clustering***]().
 
-
+<br><br>
 
 
 
