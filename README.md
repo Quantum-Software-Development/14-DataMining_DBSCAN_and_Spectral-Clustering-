@@ -124,6 +124,8 @@ Welcome to your repository guide for [DataMining DBSCAN_and_Spectral Clustering]
 
 ## [What is Clustering ?]()
 
+<br>
+
 Clustering is a way for computers to group things that are similar—like organizing marbles by color, or animals by species. The computer looks for natural groups in the data, so points in the same group are more like each other than points in other groups. Some points might not fit anywhere; finding them is important too!
 
 
@@ -131,15 +133,31 @@ Clustering is a way for computers to group things that are similar—like organi
 
 ## [DBSCAN Algorithm]()
 
+<br>
+
 **DBSCAN** stands for "[***Density-Based Spatial Clustering of Applications with Noise.***]()" It helps find groups in data where points are close together, based on how many neighbors each point has.
 
 
 <br><br>
 
 
+## [How DBSCAN Works (Step-by-Step)]()
 
+<br>
 
+1. [**Pick any point not yet checked.**]()
 
+2. [**Draw a circle around it:**]() The size the circle (called *epsilon*, \$ \varepsilon \$) says what counts as "close."
+
+3. [**Count all the neighbors inside the circle.**]()
+    - **If enough neighbors** (at least MinPts), this is a *core point*—start a new group!
+    - **If not enough:** Maybe a border point or "noise."
+
+4. [**Grow the group:**]() For each direct neighbor that is a core point, include their neighbors too—so the group grows!
+
+5. [**Repeat:**]() Until every point is grouped or marked as noise.
+
+<br><br>
 
 
 
