@@ -157,12 +157,20 @@ Clustering is a way for computers to group things that are similar—like organi
 
 5. [**Repeat:**]() Until every point is grouped or marked as noise.
 
+
 <br><br>
 
 
+## [Core, Border, and Noise Points]()
+
+- **Core point:** Has lots of friends (enough neighbors within \$ \varepsilon \$).
+
+- **Border point:** Doesn't have enough direct neighbors, but is close to a core point.
+
+- **Noise:** Too far from any busy area. Not in a group at all!
 
 
-
+<br><br>
 
 
 
