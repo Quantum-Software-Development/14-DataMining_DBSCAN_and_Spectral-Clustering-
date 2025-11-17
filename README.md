@@ -122,8 +122,12 @@ Welcome to your repository guide for [DataMining DBSCAN_and_Spectral Clustering]
 
 <br><br>
 
+## [What is Clustering ?]()
+
+Clustering is a way for computers to group things that are similar—like organizing marbles by color, or animals by species. The computer looks for natural groups in the data, so points in the same group are more like each other than points in other groups. Some points might not fit anywhere; finding them is important too!
 
 
+<br><br>
 
 
 
